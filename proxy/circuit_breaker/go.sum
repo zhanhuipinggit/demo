@@ -1,0 +1,4 @@
+github.com/Netflix/Hystrix v1.5.18 h1:w1TdXVmzUOnrA4HB2nXycz0FuOHLk2SnKVNqmSGsshM=
+github.com/Netflix/Hystrix v1.5.18/go.mod h1:wLjmqePOBHAtdZ5X+RBTe1B75rGupVM3xmctiPlXJc0=
+github.com/afex/hystrix-go v0.0.0-20180502004556-fa1af6a1f4f5 h1:rFw4nCn9iMW+Vajsk51NtYIcwSTkXr+JGrMd36kTDJw=
+github.com/afex/hystrix-go v0.0.0-20180502004556-fa1af6a1f4f5/go.mod h1:SkGFH1ia65gfNATL8TAiHDNxPzPdmEL5uirI2Uyuz6c=
