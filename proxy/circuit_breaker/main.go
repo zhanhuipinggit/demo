@@ -9,6 +9,8 @@ import (
 )
 
 func main()  {
+
+	// 限流接口
 	hystrixStreamHandler := hystrix.NewStreamHandler()
 	hystrixStreamHandler.Start()
 	go http.ListenAndServe(":8074",hystrixStreamHandler)
